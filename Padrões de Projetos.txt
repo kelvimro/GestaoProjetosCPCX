@@ -1,0 +1,101 @@
+ISO 10006:2003, Quality management; Guidelines to quality in project management é um padrão internacional, desenvolvido pela ISO, 
+específico para o gerenciamento de projetos. A orientação na qualidade de processos, entre outros objetivos, busca assegurar que:
+
+
+
+•    as necessidades dos clientes sejam entendidas e entregues;
+
+•    as necessidades dos stakeholders sejam compreendidas e avaliadas;
+
+•    a política de qualidade seja incorporada à gerência da organização, tendo como norte os objetivos estratégicos e a busca de
+resultados, e que possa ser aplicada em projetos de complexidade variada.
+
+	
+
+A norma ISO 10006 aborda o gerenciamento de projetos, mas como a própria diz, não é um guia. Reúne diretrizes que devem ser 
+usadas para manter a qualidade em projetos. Essas diretrizes, no entanto, podem ser adaptadas para um projeto particular. 
+Para a ISO, um projeto deve ser realizado em um determinado espaço de tempo, enquanto o PMBOK enfoca a criação de um produto, 
+serviço ou algo cujo resultado possa ser mensurável. A ISO 10006 aborda o processo que leva a este resultado.
+
+
+
+A ISO fornece nove etapas para o processo estratégico:
+
+
+
+•    Foco no Cliente
+
+•    Liderança
+
+•    Envolvimento das Pessoas
+
+•    Aproximação dos Processos
+
+•    Sistema de Aproximação com a Gerência 
+
+•    Melhoria Contínua
+
+•    Aproximação Casual para Tomada de Decisão
+
+•    Relacionamento Mutuamente Benéfico com Fornecedor
+
+
+
+PRINCE2™: Projects IN a Controlled Environment
+O 
+	PRINCE2™ é um método não proprietário para gerenciamento de projetos. É adaptável a qualquer tipo ou tamanho de projeto e 
+cobre seu gerenciamento, controle e organização. Um projeto PRINCE2™ tem as seguintes características:
+
+
+•    Controle e organização do início ao fim; 
+
+•    Revisão de progressos baseado nos planos e no business case;
+
+•    Pontos de decisão flexíveis;
+
+•    Gerenciamento efetivo de qualquer desvio do plano;
+
+•    Envolvimento da gerência e das partes interessadas em momentos-chave durante toda a execução do projeto;
+
+•    Um bom canal de comunicação entre o time do projeto e o res¬tante da organização.
+
+
+
+	O PRINCE2™ foi lançado como um método para gerenciamento de projetos pelo governo britânico em 1996. 
+Foi criado em 1989 a partir do PROMPTII, o qual, por sua vez, surgiu em 1975 e foi adotado em 1979 como padrão para 
+gerenciamento dos projetos de sistemas de informações governamentais.
+
+
+	Hoje, o PRINCE2™ é adotado como padrão para todos os projetos do governo britânico e amplamente utilizado pela iniciativa privada, 
+não só no país, mas também em outros lugares como Europa, África, Oceania e Estados Unidos. Considerado o método de gerenciamento de
+projetos mais utilizado no mundo, conta com mais de 250 mil profissionais certificados, sendo que aproximadamente 1.500 pessoas prestam,
+mensalmente, os exames de certificação Foudation e Practitioner. Existem mais de 120 centros de treinamento credenciados PRINCE2™ 
+pelo mundo, os quais proveem treinamento em 17 idiomas sobre as 59 ferramentas de gerenciamento de projetos desenvolvidas 
+com base no método. No Brasil, a metodologia PRINCE2™ já vem sendo utilizada em algumas organizações, 
+e é crescente a procura por informações a respeito do assunto. Em um webinar feito por nós em parceria com a IIL, 
+você poderá conferir quais relações existem entre os diversos frameworks e as principais 
+características dos modelos para gerenciamento de projetos - 
+Prince2, gerenciamento de programas – MSP e gerenciamento de portfólio – MoP.
+
+
+
+IPMA
+A 
+	International Project Management Association (IPMA®) é uma organização sem fins lucrativos reconhecida por seu trabalho no 
+desenvolvimento internacional da gestão por projetos, programas e portfólios, e na disseminação das melhores práticas aplicadas
+em organizações públicas e privadas.
+	
+
+A IPMA foi criada em 1965 com o nome de International Network INTERNET, a partir de um grupo de gestores de projetos que 
+tinham como objetivo, nos primórdios da gestão de projetos, discutir os benefícios do Método do Caminho Crítico na gestão de 
+projetos internacionais, com influências e dependências complexas de diferentes disciplinas técnicas.
+
+
+	A associação cresceu e desenvolveu-se como um fórum internacional de troca de experiências entre gestores de projetos. 
+O primeiro congresso mundial foi realizado em Viena, Áustria, em 1967. O 26º em outubro de 2012 na Grécia e, em 2014,
+o Brasil receberá o 28º Congresso Mundial.
+	
+
+A IPMA é formada por associações nacionais de gestão de projetos. São mais de 50 associações de todo o mundo com o 
+propósito específico de desenvolver a gestão de projetos, respeitando a cultura e as características de cada país, 
+mas unidas através de uma rede que estabelece as diretrizes de gestão e técnicas para seu desenvolvimento e aperfeiçoamento.

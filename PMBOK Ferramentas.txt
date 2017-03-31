@@ -1,0 +1,34 @@
+Matriz de priorização
+
+	A Matriz de priorização é um diagrama usada para priorizar (dar importância relativa) algo através de um ou mais critérios.
+A análise é feita a partir de uma matriz chamada Matriz de Priorização. Existem diversas matrizes de priorização diferentes, cada uma utilizando critérios únicos para definir o que é prioritário.
+A Vantagem deste metodo é a priorização dos elemetos importantes, ja sua desvantagem esta em seu modo simples de criterios.
+
+
+
+5W2H
+
+	5W2H é uma técnica muito eficaz para orientar as pessoas de forma simples e clara, como entender determinadas situações 
+(necessidades, problemas), documentá-las, identificar alternativas e gerar um plano de ação para solucioná-las.
+	Basicamente, você tem um roteiro (passo a passo) que é uma sequência de perguntas para entender a questão sendo avaliada e gerar um plano de ação que pode ser usada e adaptada para vários tipos de situações como por exemplo:
+- Resolver um problema;
+- Planejar as aquisições;
+- Gerar uma matriz de comunicações;
+- Analisar um processo para melhoria contínua;
+- Detalhar seu pacote de trabalho;
+seguir um roteiro torna mais simples o passo a passo das atividades, mas se não houver organização o metodo se torna inviavel.
+
+Brainstorming
+
+	Brainstorming é uma técnica usada para estimular o pensamento criativo e gerar novas ideias; 
+um processo formal que pode ser usado de modo estruturado ou não.
+Seu principal objetivo é gerar um alto número de ideias de modo criativo e eficiente e principalmente, livre de críticas.
+É muito usado na identificação de riscos e resolução de problemas.
+Principais vantagens:
+Encoraja participação de todos presentes.
+Permite aos participantes complementar ideias de outros participantes.
+Estimula ideias muito criativas.
+A desvantagem pode estar no elemento de trabalho em equipe deve haver harmonia entre as equipes
+do contrario tal ferramenta deve ser descartada.
+
+
